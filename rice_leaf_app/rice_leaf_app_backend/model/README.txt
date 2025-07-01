@@ -1,0 +1,1 @@
+Masukkan file model `final_fewshot_model.pth` dan `support_set_fixed.pt` di folder ini.
